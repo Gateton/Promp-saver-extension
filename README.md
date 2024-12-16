@@ -12,4 +12,4 @@
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/PromptSaber.git
+   git clone https://github.com/Gateton/promp-saver-extension.git
