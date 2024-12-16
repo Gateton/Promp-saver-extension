@@ -1,9 +1,15 @@
+# 📝 Prompt Saver: Smart Prompt Collection
 
+**Prompt Saver** is a library of prompts designed to enhance creativity and productivity in AI applications. This repository offers a curated collection of prompts for tasks like text generation, image creation, data analysis, and more.
 
-📝 PromptSaber: Colección de Prompts Inteligentes
-PromptSaber es una biblioteca de prompts diseñados para potenciar la creatividad y la productividad en aplicaciones de inteligencia artificial. Este repositorio ofrece una colección curada de prompts para tareas como generación de texto, creación de imágenes, análisis de datos y mucho más.
+## 🚀 Features
 
-🚀 Características
-📚 Categorías organizadas: Encuentra prompts para diferentes casos de uso como escritura creativa, codificación, diseño y aprendizaje.
-💡 Fácil de usar: Copia, ajusta y utiliza los prompts en tus proyectos en segundos.
-🌍 Contribuciones bienvenidas: Colabora para hacer crecer esta colección.
+- 📚 **Organized categories:** Find prompts for various use cases like creative writing, coding, design, and learning.
+- 💡 **Easy to use:** Copy, adapt, and use the prompts in your projects within seconds.
+- 🌍 **Open to contributions:** Collaborate to grow this collection.
+
+## 📦 Installation
+
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/yourusername/PromptSaber.git
